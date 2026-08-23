@@ -49,16 +49,6 @@
 
 ---
 
-### 📊 GitHub Analytics
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vedantgadekar08&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vedantgadekar08&layout=compact&theme=radical" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vedantgadekar08&theme=radical" alt="vedantgadekar08 streak" />
-</p>
 
 ### 📈 Contribution Activity Graph
 
@@ -66,11 +56,6 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=vedantgadekar08&theme=react-dark" alt="contribution graph" />
 </p>
 
-### 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=vedantgadekar08&theme=radical&no-frame=true&row=1&column=6" alt="trophies" />
-</p>
 
 ---
 
