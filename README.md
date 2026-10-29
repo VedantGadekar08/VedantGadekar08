@@ -23,7 +23,7 @@
 - 🎓 Computer Science student — expected graduation **2027**
 - 🔭 Currently interning at **[Oasis Infobyte](https://github.com/VedantGadekar08/OIBSIP-.git)**
 - 🌱 Currently deepening my skills in **React**
-- 💻 Full-stack developer working across **Python (Flask/Django)** and the **JavaScript/Node/React** ecosystem
+- 💻 Full-stack developer working across **Java and the **JavaScript/Node/React** ecosystem
 - ☁️ Exploring **Cloud & AI**, backed by AWS and IBM SQL certifications
 - 👨‍💻 All my projects live at **[github.com/VedantGadekar08](https://github.com/VedantGadekar08)**
 - 📫 Reach me at **vedantgadekar06@gmail.com**
